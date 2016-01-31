@@ -1,0 +1,1 @@
+Mit diesem Plugin können Sie den Shopfooter aus dem Backend heraus bearbeiten.
